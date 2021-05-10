@@ -18,5 +18,6 @@ SortingDriverScenarioTwo.java--Shows a sorting scenario #2 with a Student Object
 Screenshots:
 
 Class Diagram:
+https://user-images.githubusercontent.com/83840115/117710483-c9dfd680-b197-11eb-8576-4d3a02036369.jpg
 
 

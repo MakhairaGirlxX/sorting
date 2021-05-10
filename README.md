@@ -16,6 +16,7 @@ SortingDriver.java--Shows a sorting scenerio #1 using an array of Integers. Incl
 SortingDriverScenarioTwo.java--Shows a sorting scenario #2 with a Student Object. Includes a method to check execution time.
 
 Screenshots:
+https://user-images.githubusercontent.com/83840115/117710476-c8aea980-b197-11eb-94d4-2c16105053cd.png
 
 Class Diagram:
 https://user-images.githubusercontent.com/83840115/117710483-c9dfd680-b197-11eb-8576-4d3a02036369.jpg
